@@ -1,6 +1,9 @@
 
 body{
     background: #cccccc
+    #banner {
+        windth: 100%;
+    }
 }
 
 p{
