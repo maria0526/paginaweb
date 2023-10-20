@@ -1,9 +1,10 @@
 
 body{
     background: #cccccc
-    #banner {
-        windth: 100%;
-    }
+    
+}
+#banner{
+    width: 100%;
 }
 
 p{
